@@ -1,0 +1,3 @@
+C:/C_plus_plus_lectures/1_lessons/CMakeFiles/main.dir
+C:/C_plus_plus_lectures/1_lessons/CMakeFiles/edit_cache.dir
+C:/C_plus_plus_lectures/1_lessons/CMakeFiles/rebuild_cache.dir
