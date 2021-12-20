@@ -1,6 +1,6 @@
 #ifndef REVERSE_H
 #define REVERSE_H
 
-void reverse_array(int **arr, int num);
+#define CONSTATNT 100
 
 #endif
