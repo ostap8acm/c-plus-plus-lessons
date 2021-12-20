@@ -1,5 +1,5 @@
-#ifndef REVERSE_H
-#define REVERSE_H
+#ifndef MAIN_H
+#define MAIN_H
 
 #define CONSTATNT 100
 
