@@ -37,7 +37,7 @@ void PrintBinary(void* ptr, size_t size){
 	
 	std::cout <<"\n\n\nPrint bits of variable with size:"<< size <<std::endl;
 	
-	for (int i=(int)(size-1); i >= 0; i--){
+	for (int i = (int)(size-1); i >= 0; i--){
 		std::cout << std::bitset<BYTE_SIZE>(*(int8_t *)(ptr+i));
 		
 	}
